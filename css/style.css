@@ -1,0 +1,52 @@
+header {
+	color: #F7D1CD;
+}
+.title {
+	color: #6D6875;
+}
+#wrap {
+	color: #E8C2CA;
+}
+.subtitle p {
+	color: #D1B3C4;
+}
+h2.subtitle-first {
+	color: #B392AC;
+}
+.brothers, 
+.wish {
+	color: #C777B6;
+}
+.career h2 {
+	color: #006D77;
+}
+.career .item {
+	color: #FCBF49;
+}
+.text-career {
+	color: #D62828;
+}
+.subtitle-work {
+	color: #6495ED;
+}
+.subtitle-work~p {
+	color: #9FE2BF;
+}
+.subtitle-casting+p {
+	color: #E07A5F;
+}
+.casting-text {
+	color: #81B29A;
+}
+.subtitle-casting {
+	color: #C8B6FF;
+}
+.trones * {
+	color: #8338EC;
+}
+.search.pagination {
+	color: #006D77;
+}
+.footer-list a {
+	color: #E29578;
+}
